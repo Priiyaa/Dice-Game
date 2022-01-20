@@ -11,8 +11,8 @@
 }
 
 body {
-  background-image: linear-gradient(white,#393E46);
-  /*background-color: #393E46;*/
+ 
+ background-color: #393E46;
 }
 
 h1 {
@@ -25,7 +25,7 @@ h1 {
 
 h2 {
   font-size: 3rem;
-  color: #861117;
+  color: #4ECCA3;
   font-family: 'Indie Flower', cursive;
 }
 
