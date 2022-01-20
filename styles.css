@@ -1,0 +1,54 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-image: linear-gradient(white,#393E46);
+  /*background-color: #393E46;*/
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 5rem;
+  color: #4ECCA3;
+}
+
+h2 {
+  font-size: 3rem;
+  color: #861117;
+  font-family: 'Indie Flower', cursive;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+
+}
+.Refresh{
+  margin-left: 46%;
+  background-color:#f0c5c5;
+  border-radius:20px ;
+  height: 3rem;
+  box-shadow: 2px 2px whitesmoke;
+}
+button:hover{
+  cursor: pointer;
+  font-size: 15px;
+ 
+}
